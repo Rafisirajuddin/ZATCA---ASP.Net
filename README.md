@@ -1,4 +1,4 @@
-# ZATCA-C#
+# C# ZATCA (Fatoora) QR-Code Implementation
 
 
 **Step #1:**
